@@ -1,10 +1,10 @@
 {
 
   "manifest_version": 2,
-  "name": "better-github",
+  "name": "red-green-prs",
   "version": "1.0",
 
-  "description": "Adds a red border to all webpages matching mozilla.org.",
+  "description": "A silly little project to swap the green and red on PRs in GitHub. Added lines bad. Deleted lines goood.",
 
   "icons": {
     "48": "icons/icon.png"
