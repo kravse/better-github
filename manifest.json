@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "red-green-prs",
-  "version": "1.0",
+  "version": "1.01",
 
   "description": "A silly little project to swap the green and red on PRs in GitHub. Added lines bad. Deleted lines goood.",
 
